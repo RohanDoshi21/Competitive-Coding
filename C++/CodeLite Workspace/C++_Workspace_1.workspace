@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C++_Workspace_1" Database="" Version="10000">
+  <Project Name="Project_1" Path="Project_1/Project_1.project" Active="No"/>
+  <Project Name="Buy_a_Showel" Path="Buy_a_Showel/Buy_a_Showel.project" Active="No"/>
+  <Project Name="yet_another_two_integer_problem" Path="yet_another_two_integer_problem/yet_another_two_integer_problem.project" Active="No"/>
+  <Project Name="Police_Recruicts" Path="Police_Recruicts.project" Active="No"/>
+  <Project Name="The_New_Year" Path="The_New_Year/The_New_Year.project" Active="No"/>
+  <Project Name="Holiday_of_equality" Path="Holiday_of_equality/Holiday_of_equality.project" Active="No"/>
+  <Project Name="Garlands" Path="Garlands/Garlands.project" Active="No"/>
+  <Project Name="Garlands_2" Path="Garlands_2/Garlands_2.project" Active="No"/>
+  <Project Name="Cards_and_friends" Path="Cards_and_friends/Cards_and_friends.project" Active="No"/>
+  <Project Name="Fair_Division" Path="Fair_Division/Fair_Division.project" Active="No"/>
+  <Project Name="fair_divison_1" Path="fair_divison_1/fair_divison_1.project" Active="No"/>
+  <Project Name="Binary_Search" Path="Binary_Search/Binary_Search.project" Active="No"/>
+  <Project Name="Jump_Search" Path="Jump_Search/Jump_Search.project" Active="No"/>
+  <Project Name="Interpolation_Search" Path="Interpolation_Search/Interpolation_Search.project" Active="No"/>
+  <Project Name="Searches" Path="Searches/Searches.project" Active="No"/>
+  <Project Name="Exponential_Search" Path="Exponential_Search/Exponential_Search.project" Active="No"/>
+  <Project Name="Fibonacci_Search" Path="Fibonacci_Search/Fibonacci_Search.project" Active="No"/>
+  <Project Name="Power" Path="Power/Power.project" Active="No"/>
+  <Project Name="Taylor_Series" Path="Taylor_Series/Taylor_Series.project" Active="No"/>
+  <Project Name="Required_Remainder" Path="Required_Remainder/Required_Remainder.project" Active="No"/>
+  <Project Name="Nezzar_and_lucky_number" Path="Nezzar_and_lucky_number/Nezzar_and_lucky_number.project" Active="No"/>
+  <Project Name="Stack" Path="Stack/Stack.project" Active="No"/>
+  <Project Name="Good_Pairs" Path="Good_Pairs/Good_Pairs.project" Active="No"/>
+  <Project Name="Oliver" Path="Oliver/Oliver.project" Active="No"/>
+  <Project Name="oliver_1" Path="oliver_1/oliver_1.project" Active="No"/>
+  <Project Name="Queue" Path="Queue/Queue.project" Active="No"/>
+  <Project Name="Circular_Queue" Path="Circular_Queue/Circular_Queue.project" Active="No"/>
+  <Project Name="Linked_List" Path="Linked_List/Linked_List.project" Active="No"/>
+  <Project Name="Array_Operations" Path="Arrays/Arrays.project" Active="No"/>
+  <Project Name="Pair_of_numbers_of_a_sun" Path="Pair_of_numbers_of_a_sun/Pair_of_numbers_of_a_sun.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project_1" ConfigName="Debug"/>
+      <Project Name="Buy_a_Showel" ConfigName="Debug"/>
+      <Project Name="yet_another_two_integer_problem" ConfigName="Debug"/>
+      <Project Name="Police_Recruicts" ConfigName="Debug"/>
+      <Project Name="The_New_Year" ConfigName="Debug"/>
+      <Project Name="Holiday_of_equality" ConfigName="Debug"/>
+      <Project Name="Garlands" ConfigName="Debug"/>
+      <Project Name="Garlands_2" ConfigName="Debug"/>
+      <Project Name="Cards_and_friends" ConfigName="Debug"/>
+      <Project Name="Fair_Division" ConfigName="Debug"/>
+      <Project Name="fair_divison_1" ConfigName="Debug"/>
+      <Project Name="Binary_Search" ConfigName="Debug"/>
+      <Project Name="Jump_Search" ConfigName="Debug"/>
+      <Project Name="Interpolation_Search" ConfigName="Debug"/>
+      <Project Name="Searches" ConfigName="Debug"/>
+      <Project Name="Exponential_Search" ConfigName="Debug"/>
+      <Project Name="Fibonacci_Search" ConfigName="Debug"/>
+      <Project Name="Power" ConfigName="Debug"/>
+      <Project Name="Taylor_Series" ConfigName="Debug"/>
+      <Project Name="Required_Remainder" ConfigName="Debug"/>
+      <Project Name="Nezzar_and_lucky_number" ConfigName="Debug"/>
+      <Project Name="Stack" ConfigName="Debug"/>
+      <Project Name="Good_Pairs" ConfigName="Debug"/>
+      <Project Name="Oliver" ConfigName="Debug"/>
+      <Project Name="oliver_1" ConfigName="Debug"/>
+      <Project Name="Queue" ConfigName="Debug"/>
+      <Project Name="Circular_Queue" ConfigName="Debug"/>
+      <Project Name="Linked_List" ConfigName="Debug"/>
+      <Project Name="Array_Operations" ConfigName="Debug"/>
+      <Project Name="Pair_of_numbers_of_a_sun" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project_1" ConfigName="Release"/>
+      <Project Name="Buy_a_Showel" ConfigName="Release"/>
+      <Project Name="yet_another_two_integer_problem" ConfigName="Release"/>
+      <Project Name="Police_Recruicts" ConfigName="Release"/>
+      <Project Name="The_New_Year" ConfigName="Release"/>
+      <Project Name="Holiday_of_equality" ConfigName="Release"/>
+      <Project Name="Garlands" ConfigName="Release"/>
+      <Project Name="Garlands_2" ConfigName="Release"/>
+      <Project Name="Cards_and_friends" ConfigName="Release"/>
+      <Project Name="Fair_Division" ConfigName="Release"/>
+      <Project Name="fair_divison_1" ConfigName="Release"/>
+      <Project Name="Binary_Search" ConfigName="Release"/>
+      <Project Name="Jump_Search" ConfigName="Release"/>
+      <Project Name="Interpolation_Search" ConfigName="Release"/>
+      <Project Name="Searches" ConfigName="Release"/>
+      <Project Name="Exponential_Search" ConfigName="Release"/>
+      <Project Name="Fibonacci_Search" ConfigName="Release"/>
+      <Project Name="Power" ConfigName="Release"/>
+      <Project Name="Taylor_Series" ConfigName="Release"/>
+      <Project Name="Required_Remainder" ConfigName="Release"/>
+      <Project Name="Nezzar_and_lucky_number" ConfigName="Release"/>
+      <Project Name="Stack" ConfigName="Release"/>
+      <Project Name="Good_Pairs" ConfigName="Release"/>
+      <Project Name="Oliver" ConfigName="Release"/>
+      <Project Name="oliver_1" ConfigName="Release"/>
+      <Project Name="Queue" ConfigName="Release"/>
+      <Project Name="Circular_Queue" ConfigName="Release"/>
+      <Project Name="Linked_List" ConfigName="Release"/>
+      <Project Name="Array_Operations" ConfigName="Release"/>
+      <Project Name="Pair_of_numbers_of_a_sun" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
