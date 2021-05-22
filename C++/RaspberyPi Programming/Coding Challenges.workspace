@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Coding Challenges" Database="" Version="10.0.0">
+  <Project Name="Pattern" Path="Pattern/Pattern.project" Active="No"/>
+  <Project Name="sum_of_series" Path="sum_of_series/sum_of_series.project" Active="No"/>
+  <Project Name="Bit_plus_plus" Path="Bit_plus_plus/Bit_plus_plus.project" Active="No"/>
+  <Project Name="Beutiful_matrix" Path="Beutiful_matrix/Beutiful_matrix.project" Active="No"/>
+  <Project Name="Helpful_Maths" Path="Helpful_Maths/Helpful_Maths.project" Active="No"/>
+  <Project Name="Word_Capitalistion" Path="Word_Capitalistion/Word_Capitalistion.project" Active="No"/>
+  <Project Name="Solidier_and_Bananans" Path="Solidier_and_Bananans/Solidier_and_Bananans.project" Active="No"/>
+  <Project Name="Tram" Path="Tram/Tram.project" Active="No"/>
+  <Project Name="Bear_and_Big_Brother" Path="Bear_and_Big_Brother/Bear_and_Big_Brother.project" Active="No"/>
+  <Project Name="Wrong_substraction" Path="Wrong_substraction/Wrong_substraction.project" Active="No"/>
+  <Project Name="Elephant" Path="Elephant/Elephant.project" Active="No"/>
+  <Project Name="Queue_at_the_School" Path="Queue_at_the_School/Queue_at_the_School.project" Active="No"/>
+  <Project Name="Nearly_lucky_numbers" Path="Nearly_lucky_numbers/Nearly_lucky_numbers.project" Active="No"/>
+  <Project Name="Word" Path="Word/Word.project" Active="No"/>
+  <Project Name="Translation" Path="Translation/Translation.project" Active="No"/>
+  <Project Name="George_and_Accomodation" Path="George_and_Accomodation/George_and_Accomodation.project" Active="No"/>
+  <Project Name="Anton_and_Danik" Path="Anton_and_Danik/Anton_and_Danik.project" Active="No"/>
+  <Project Name="Beautiful_Year" Path="Beautiful_Year/Beautiful_Year.project" Active="No"/>
+  <Project Name="Presents" Path="Presents/Presents.project" Active="No"/>
+  <Project Name="Vanya_and_Fence" Path="Vanya_and_Fence/Vanya_and_Fence.project" Active="No"/>
+  <Project Name="In_search_of_easy_problem" Path="In_search_of_easy_problem/In_search_of_easy_problem.project" Active="No"/>
+  <Project Name="Magnets" Path="Magnets/Magnets.project" Active="No"/>
+  <Project Name="Hulk" Path="Hulk/Hulk.project" Active="No"/>
+  <Project Name="Calculating_Function" Path="Calculating_Function/Calculating_Function.project" Active="No"/>
+  <Project Name="Ultra_Fast_Mathematician" Path="Ultra_Fast_Mathematician/Ultra_Fast_Mathematician.project" Active="No"/>
+  <Project Name="Drinks" Path="Drinks/Drinks.project" Active="No"/>
+  <Project Name="Isomaina_Cure" Path="Isomaina_Cure/Isomaina_Cure.project" Active="No"/>
+  <Project Name="I_wanna_be_the_guy" Path="I_wanna_be_the_guy/I_wanna_be_the_guy.project" Active="No"/>
+  <Project Name="Arrival_of_General" Path="Arrival_of_General/Arrival_of_General.project" Active="No"/>
+  <Project Name="Is_your_horseshoe_on_the_other_hoof_" Path="Is_your_horseshoe_on_the_other_hoof_/Is_your_horseshoe_on_the_other_hoof_.project" Active="No"/>
+  <Project Name="Anton_and_Letters" Path="Anton_and_Letters/Anton_and_Letters.project" Active="No"/>
+  <Project Name="Anton_and_Polyhedrons" Path="Anton_and_Polyhedrons/Anton_and_Polyhedrons.project" Active="No"/>
+  <Project Name="Games" Path="Games/Games.project" Active="No"/>
+  <Project Name="Divisiblity_Problem" Path="Divisiblity_Problem/Divisiblity_Problem.project" Active="No"/>
+  <Project Name="Pangram" Path="Pangram/Pangram.project" Active="No"/>
+  <Project Name="Amusing_Joke" Path="Amusing_Joke/Amusing_Joke.project" Active="No"/>
+  <Project Name="Candies_and_two_Sisters" Path="Candies_and_two_Sisters/Candies_and_two_Sisters.project" Active="No"/>
+  <Project Name="Hit_the_lottery" Path="Hit_the_lottery/Hit_the_lottery.project" Active="No"/>
+  <Project Name="Fox_and_Snakes" Path="Fox_and_Snakes/Fox_and_Snakes.project" Active="No"/>
+  <Project Name="Learn_from_Maths" Path="Learn_from_Maths/Learn_from_Maths.project" Active="No"/>
+  <Project Name="Vasya_the_Hipster" Path="Vasya_the_Hipster/Vasya_the_Hipster.project" Active="No"/>
+  <Project Name="Sum_of_Round_Numbers" Path="Sum_of_Round_Numbers/Sum_of_Round_Numbers.project" Active="No"/>
+  <Project Name="Restoring_3_nos" Path="Restoring_3_nos/Restoring_3_nos.project" Active="No"/>
+  <Project Name="Three_Indices" Path="Three_Indices/Three_Indices.project" Active="No"/>
+  <Project Name="Multiply_by_2_divide_by_6" Path="Multiply_by_2_divide_by_6/Multiply_by_2_divide_by_6.project" Active="No"/>
+  <Project Name="square" Path="square/square.project" Active="No"/>
+  <Project Name="Template_class" Path="Template_class/Template_class.project" Active="No"/>
+  <Project Name="Learning_Recurssion" Path="Learning_Recurssion/Learning_Recurssion.project" Active="No"/>
+  <Project Name="Static_varibales_in_Recurssion" Path="Static_varibales_in_Recurssion/Static_varibales_in_Recurssion.project" Active="No"/>
+  <Project Name="Tree_Recursion" Path="Tree_Recursion/Tree_Recursion.project" Active="No"/>
+  <Project Name="Indirect_Recurssion" Path="Indirect_Recurssion/Indirect_Recurssion.project" Active="No"/>
+  <Project Name="Nested_Recurssion" Path="Nested_Recurssion/Nested_Recurssion.project" Active="No"/>
+  <Project Name="Sum_of_natural_numbers_using_recurssion" Path="Sum_of_natural_numbers_using_recurssion/Sum_of_natural_numbers_using_recurssion.project" Active="No"/>
+  <Project Name="New_Year_and_Hurry" Path="New_Year_and_Hurry/New_Year_and_Hurry.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Pattern" ConfigName="Debug"/>
+      <Project Name="sum_of_series" ConfigName="Debug"/>
+      <Project Name="Bit_plus_plus" ConfigName="Debug"/>
+      <Project Name="Beutiful_matrix" ConfigName="Debug"/>
+      <Project Name="Helpful_Maths" ConfigName="Debug"/>
+      <Project Name="Word_Capitalistion" ConfigName="Debug"/>
+      <Project Name="Solidier_and_Bananans" ConfigName="Debug"/>
+      <Project Name="Tram" ConfigName="Debug"/>
+      <Project Name="Bear_and_Big_Brother" ConfigName="Debug"/>
+      <Project Name="Wrong_substraction" ConfigName="Debug"/>
+      <Project Name="Elephant" ConfigName="Debug"/>
+      <Project Name="Queue_at_the_School" ConfigName="Debug"/>
+      <Project Name="Nearly_lucky_numbers" ConfigName="Debug"/>
+      <Project Name="Word" ConfigName="Debug"/>
+      <Project Name="Translation" ConfigName="Debug"/>
+      <Project Name="George_and_Accomodation" ConfigName="Debug"/>
+      <Project Name="Anton_and_Danik" ConfigName="Debug"/>
+      <Project Name="Beautiful_Year" ConfigName="Debug"/>
+      <Project Name="Presents" ConfigName="Debug"/>
+      <Project Name="Vanya_and_Fence" ConfigName="Debug"/>
+      <Project Name="In_search_of_easy_problem" ConfigName="Debug"/>
+      <Project Name="Magnets" ConfigName="Debug"/>
+      <Project Name="Hulk" ConfigName="Debug"/>
+      <Project Name="Calculating_Function" ConfigName="Debug"/>
+      <Project Name="Ultra_Fast_Mathematician" ConfigName="Debug"/>
+      <Project Name="Drinks" ConfigName="Debug"/>
+      <Project Name="Isomaina_Cure" ConfigName="Debug"/>
+      <Project Name="I_wanna_be_the_guy" ConfigName="Debug"/>
+      <Project Name="Arrival_of_General" ConfigName="Debug"/>
+      <Project Name="Is_your_horseshoe_on_the_other_hoof_" ConfigName="Debug"/>
+      <Project Name="Anton_and_Letters" ConfigName="Debug"/>
+      <Project Name="Anton_and_Polyhedrons" ConfigName="Debug"/>
+      <Project Name="Games" ConfigName="Debug"/>
+      <Project Name="Divisiblity_Problem" ConfigName="Debug"/>
+      <Project Name="Pangram" ConfigName="Debug"/>
+      <Project Name="Amusing_Joke" ConfigName="Debug"/>
+      <Project Name="Candies_and_two_Sisters" ConfigName="Debug"/>
+      <Project Name="Hit_the_lottery" ConfigName="Debug"/>
+      <Project Name="Fox_and_Snakes" ConfigName="Debug"/>
+      <Project Name="Learn_from_Maths" ConfigName="Debug"/>
+      <Project Name="Vasya_the_Hipster" ConfigName="Debug"/>
+      <Project Name="Sum_of_Round_Numbers" ConfigName="Debug"/>
+      <Project Name="Restoring_3_nos" ConfigName="Debug"/>
+      <Project Name="Three_Indices" ConfigName="Debug"/>
+      <Project Name="Multiply_by_2_divide_by_6" ConfigName="Debug"/>
+      <Project Name="square" ConfigName="Debug"/>
+      <Project Name="Template_class" ConfigName="Debug"/>
+      <Project Name="Learning_Recurssion" ConfigName="Debug"/>
+      <Project Name="Static_varibales_in_Recurssion" ConfigName="Debug"/>
+      <Project Name="Tree_Recursion" ConfigName="Debug"/>
+      <Project Name="Indirect_Recurssion" ConfigName="Debug"/>
+      <Project Name="Nested_Recurssion" ConfigName="Debug"/>
+      <Project Name="Sum_of_natural_numbers_using_recurssion" ConfigName="Debug"/>
+      <Project Name="New_Year_and_Hurry" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Pattern" ConfigName="Release"/>
+      <Project Name="sum_of_series" ConfigName="Release"/>
+      <Project Name="Bit_plus_plus" ConfigName="Release"/>
+      <Project Name="Beutiful_matrix" ConfigName="Release"/>
+      <Project Name="Helpful_Maths" ConfigName="Release"/>
+      <Project Name="Word_Capitalistion" ConfigName="Release"/>
+      <Project Name="Solidier_and_Bananans" ConfigName="Release"/>
+      <Project Name="Tram" ConfigName="Release"/>
+      <Project Name="Bear_and_Big_Brother" ConfigName="Release"/>
+      <Project Name="Wrong_substraction" ConfigName="Release"/>
+      <Project Name="Elephant" ConfigName="Release"/>
+      <Project Name="Queue_at_the_School" ConfigName="Release"/>
+      <Project Name="Nearly_lucky_numbers" ConfigName="Release"/>
+      <Project Name="Word" ConfigName="Release"/>
+      <Project Name="Translation" ConfigName="Release"/>
+      <Project Name="George_and_Accomodation" ConfigName="Release"/>
+      <Project Name="Anton_and_Danik" ConfigName="Release"/>
+      <Project Name="Beautiful_Year" ConfigName="Release"/>
+      <Project Name="Presents" ConfigName="Release"/>
+      <Project Name="Vanya_and_Fence" ConfigName="Release"/>
+      <Project Name="In_search_of_easy_problem" ConfigName="Release"/>
+      <Project Name="Magnets" ConfigName="Release"/>
+      <Project Name="Hulk" ConfigName="Release"/>
+      <Project Name="Calculating_Function" ConfigName="Release"/>
+      <Project Name="Ultra_Fast_Mathematician" ConfigName="Release"/>
+      <Project Name="Drinks" ConfigName="Release"/>
+      <Project Name="Isomaina_Cure" ConfigName="Release"/>
+      <Project Name="I_wanna_be_the_guy" ConfigName="Release"/>
+      <Project Name="Arrival_of_General" ConfigName="Release"/>
+      <Project Name="Is_your_horseshoe_on_the_other_hoof_" ConfigName="Release"/>
+      <Project Name="Anton_and_Letters" ConfigName="Release"/>
+      <Project Name="Anton_and_Polyhedrons" ConfigName="Release"/>
+      <Project Name="Games" ConfigName="Release"/>
+      <Project Name="Divisiblity_Problem" ConfigName="Release"/>
+      <Project Name="Pangram" ConfigName="Release"/>
+      <Project Name="Amusing_Joke" ConfigName="Release"/>
+      <Project Name="Candies_and_two_Sisters" ConfigName="Release"/>
+      <Project Name="Hit_the_lottery" ConfigName="Release"/>
+      <Project Name="Fox_and_Snakes" ConfigName="Release"/>
+      <Project Name="Learn_from_Maths" ConfigName="Release"/>
+      <Project Name="Vasya_the_Hipster" ConfigName="Release"/>
+      <Project Name="Sum_of_Round_Numbers" ConfigName="Release"/>
+      <Project Name="Restoring_3_nos" ConfigName="Release"/>
+      <Project Name="Three_Indices" ConfigName="Release"/>
+      <Project Name="Multiply_by_2_divide_by_6" ConfigName="Release"/>
+      <Project Name="square" ConfigName="Release"/>
+      <Project Name="Template_class" ConfigName="Release"/>
+      <Project Name="Learning_Recurssion" ConfigName="Release"/>
+      <Project Name="Static_varibales_in_Recurssion" ConfigName="Release"/>
+      <Project Name="Tree_Recursion" ConfigName="Release"/>
+      <Project Name="Indirect_Recurssion" ConfigName="Release"/>
+      <Project Name="Nested_Recurssion" ConfigName="Release"/>
+      <Project Name="Sum_of_natural_numbers_using_recurssion" ConfigName="Release"/>
+      <Project Name="New_Year_and_Hurry" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

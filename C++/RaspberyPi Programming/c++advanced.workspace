@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="c++advanced" Database="" Version="10.0.0">
+  <Project Name="Shared_Pointers" Path="Shared_Pointers/Shared_Pointers.project" Active="No"/>
+  <Project Name="Weak_Pointers" Path="Weak_Pointers/Weak_Pointers.project" Active="No"/>
+  <Project Name="Exeptional_handling_dividing_by_zero" Path="Exeptional_handling_dividing_by_zero/Exeptional_handling_dividing_by_zero.project" Active="No"/>
+  <Project Name="dividing_by_zero" Path="dividing_by_zero/dividing_by_zero.project" Active="No"/>
+  <Project Name="calculating_average" Path="calculate_kmph/calculate_kmph.project" Active="No"/>
+  <Project Name="Conversion_of_numbers_hex_oct" Path="Conversion_of_numbers_hex_oct/Conversion_of_numbers_hex_oct.project" Active="No"/>
+  <Project Name="floatinf_manipulators" Path="floatinf_manipulators/floatinf_manipulators.project" Active="No"/>
+  <Project Name="stream_manipulators" Path="stream_manipulators/stream_manipulators.project" Active="No"/>
+  <Project Name="trying_to_handle_files_1" Path="trying_to_handle_files_1/trying_to_handle_files_1.project" Active="No"/>
+  <Project Name="Grading_System" Path="Grading_System/Grading_System.project" Active="No"/>
+  <Project Name="Word_Searcher" Path="Word_Searcher/Word_Searcher.project" Active="No"/>
+  <Project Name="Random_Paper_Generator" Path="Random_Paper_Generator/Random_Paper_Generator.project" Active="No"/>
+  <Project Name="rohit" Path="rohit/rohit.project" Active="No"/>
+  <Project Name="Domino_piling" Path="Domino_piling/Domino_piling.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Shared_Pointers" ConfigName="Debug"/>
+      <Project Name="Weak_Pointers" ConfigName="Debug"/>
+      <Project Name="Exeptional_handling_dividing_by_zero" ConfigName="Debug"/>
+      <Project Name="dividing_by_zero" ConfigName="Debug"/>
+      <Project Name="calculating_average" ConfigName="Debug"/>
+      <Project Name="Conversion_of_numbers_hex_oct" ConfigName="Debug"/>
+      <Project Name="floatinf_manipulators" ConfigName="Debug"/>
+      <Project Name="stream_manipulators" ConfigName="Debug"/>
+      <Project Name="trying_to_handle_files_1" ConfigName="Debug"/>
+      <Project Name="Grading_System" ConfigName="Debug"/>
+      <Project Name="Word_Searcher" ConfigName="Debug"/>
+      <Project Name="Random_Paper_Generator" ConfigName="Debug"/>
+      <Project Name="rohit" ConfigName="Debug"/>
+      <Project Name="Domino_piling" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Shared_Pointers" ConfigName="Release"/>
+      <Project Name="Weak_Pointers" ConfigName="Release"/>
+      <Project Name="Exeptional_handling_dividing_by_zero" ConfigName="Release"/>
+      <Project Name="dividing_by_zero" ConfigName="Release"/>
+      <Project Name="calculating_average" ConfigName="Release"/>
+      <Project Name="Conversion_of_numbers_hex_oct" ConfigName="Release"/>
+      <Project Name="floatinf_manipulators" ConfigName="Release"/>
+      <Project Name="stream_manipulators" ConfigName="Release"/>
+      <Project Name="trying_to_handle_files_1" ConfigName="Release"/>
+      <Project Name="Grading_System" ConfigName="Release"/>
+      <Project Name="Word_Searcher" ConfigName="Release"/>
+      <Project Name="Random_Paper_Generator" ConfigName="Release"/>
+      <Project Name="rohit" ConfigName="Release"/>
+      <Project Name="Domino_piling" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
