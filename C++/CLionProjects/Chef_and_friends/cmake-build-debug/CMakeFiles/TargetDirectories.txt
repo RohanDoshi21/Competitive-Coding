@@ -1,0 +1,3 @@
+C:/Users/rohan/CLionProjects/Chef_and_friends/cmake-build-debug/CMakeFiles/Chef_and_friends.dir
+C:/Users/rohan/CLionProjects/Chef_and_friends/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohan/CLionProjects/Chef_and_friends/cmake-build-debug/CMakeFiles/rebuild_cache.dir

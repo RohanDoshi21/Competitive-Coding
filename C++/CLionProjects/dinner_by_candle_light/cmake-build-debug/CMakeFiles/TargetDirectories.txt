@@ -1,0 +1,3 @@
+C:/Users/rohan/CLionProjects/dinner_by_candle_light/cmake-build-debug/CMakeFiles/dinner_by_candle_light.dir
+C:/Users/rohan/CLionProjects/dinner_by_candle_light/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohan/CLionProjects/dinner_by_candle_light/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/rohan/CLionProjects/Interesting_xor/cmake-build-debug/CMakeFiles/Interesting_xor.dir
+C:/Users/rohan/CLionProjects/Interesting_xor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohan/CLionProjects/Interesting_xor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

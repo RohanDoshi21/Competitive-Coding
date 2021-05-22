@@ -1,0 +1,3 @@
+C:/Users/rohan/CLionProjects/safe_trun/cmake-build-debug/CMakeFiles/safe_trun.dir
+C:/Users/rohan/CLionProjects/safe_trun/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohan/CLionProjects/safe_trun/cmake-build-debug/CMakeFiles/rebuild_cache.dir
