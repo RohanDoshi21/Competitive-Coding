@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     cout << "Mg(HCO3)2 : ";
     float mghco32 ;
