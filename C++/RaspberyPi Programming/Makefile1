@@ -1,8 +1,0 @@
-.PHONY: clean All
-
-All:
-	@echo "----------Building project:[ Domino_piling - Debug ]----------"
-	@cd "Domino_piling" && "$(MAKE)" -f  "Domino_piling.mk"
-clean:
-	@echo "----------Cleaning project:[ Domino_piling - Debug ]----------"
-	@cd "Domino_piling" && "$(MAKE)" -f  "Domino_piling.mk" clean
