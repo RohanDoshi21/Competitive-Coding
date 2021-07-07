@@ -1,3 +1,0 @@
-C:/Users/rohan/CLionProjects/SDICE/cmake-build-debug/CMakeFiles/SDICE.dir
-C:/Users/rohan/CLionProjects/SDICE/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rohan/CLionProjects/SDICE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

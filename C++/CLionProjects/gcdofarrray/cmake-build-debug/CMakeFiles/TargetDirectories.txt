@@ -1,3 +1,0 @@
-C:/Users/rohan/CLionProjects/gcdofarrray/cmake-build-debug/CMakeFiles/gcdofarrray.dir
-C:/Users/rohan/CLionProjects/gcdofarrray/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rohan/CLionProjects/gcdofarrray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

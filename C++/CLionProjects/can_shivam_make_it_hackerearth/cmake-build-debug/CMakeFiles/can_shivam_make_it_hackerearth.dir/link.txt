@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\can_shivam_make_it_hackerearth.dir/objects.a
-C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe cr CMakeFiles\can_shivam_make_it_hackerearth.dir/objects.a @CMakeFiles\can_shivam_make_it_hackerearth.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\can_shivam_make_it_hackerearth.dir/objects.a -Wl,--no-whole-archive -o can_shivam_make_it_hackerearth.exe -Wl,--out-implib,libcan_shivam_make_it_hackerearth.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\can_shivam_make_it_hackerearth.dir\linklibs.rsp

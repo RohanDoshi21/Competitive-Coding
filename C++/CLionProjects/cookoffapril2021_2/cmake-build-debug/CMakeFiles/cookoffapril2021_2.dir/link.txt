@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\cookoffapril2021_2.dir/objects.a
-C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe cr CMakeFiles\cookoffapril2021_2.dir/objects.a @CMakeFiles\cookoffapril2021_2.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\cookoffapril2021_2.dir/objects.a -Wl,--no-whole-archive -o cookoffapril2021_2.exe -Wl,--out-implib,libcookoffapril2021_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cookoffapril2021_2.dir\linklibs.rsp

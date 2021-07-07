@@ -1,3 +1,0 @@
-C:/Users/rohan/CLionProjects/max_element_stack/cmake-build-debug/CMakeFiles/max_element_stack.dir
-C:/Users/rohan/CLionProjects/max_element_stack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/rohan/CLionProjects/max_element_stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
