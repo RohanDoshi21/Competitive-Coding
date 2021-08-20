@@ -1,40 +1,16 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\rohan\Documents\GitHub\Competitive-Coding\C++\CLionProjects\untitled9
--- The C compiler identification is unknown
--- The CXX compiler identification is unknown
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\rohan\Documents\GitHub\Competitive-Coding\C++\CLionProjects\untitled9
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
 -- Detecting C compiler ABI info
--- Detecting C compiler ABI info - failed
--- Check for working C compiler: C:/Program Files/mingw-w64/mingw64/bin/gcc.exe
--- Check for working C compiler: C:/Program Files/mingw-w64/mingw64/bin/gcc.exe - broken
-CMake Error at C:/Program Files/JetBrains/CLion 2020.3.2/bin/cmake/win/share/cmake-3.19/Modules/CMakeTestCCompiler.cmake:66 (message):
-  The C compiler
-
-    "C:/Program Files/mingw-w64/mingw64/bin/gcc.exe"
-
-  is not able to compile a simple test program.
-
-  It fails with the following output:
-
-    Change Dir: C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeTmp
-    
-    Run Build Command(s):C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe cmTC_10348/fast && C:/PROGRA~1/MINGW-~1/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_10348.dir\build.make CMakeFiles/cmTC_10348.dir/build
-    mingw32-make.exe[1]: Entering directory 'C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeTmp'
-    Building C object CMakeFiles/cmTC_10348.dir/testCCompiler.c.obj
-    C:\PROGRA~1\MINGW-~1\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_10348.dir\testCCompiler.c.obj -c C:\Users\rohan\Documents\GitHub\Competitive-Coding\C++\CLionProjects\untitled9\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
-    Assembler messages:
-    Fatal error: can't create CMakeFiles\cmTC_10348.dir\testCCompiler.c.obj: No such file or directory
-    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_10348.dir\build.make:84: CMakeFiles/cmTC_10348.dir/testCCompiler.c.obj] Error 1
-    mingw32-make.exe[1]: Leaving directory 'C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeTmp'
-    mingw32-make.exe: *** [Makefile:139: cmTC_10348/fast] Error 2
-    
-    
-
-  
-
-  CMake will not be able to correctly generate this project.
-Call Stack (most recent call first):
-  CMakeLists.txt:2 (project)
-
-
--- Configuring incomplete, errors occurred!
-See also "C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeOutput.log".
-See also "C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug/CMakeFiles/CMakeError.log".
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/mingw-w64/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/mingw-w64/mingw64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/rohan/Documents/GitHub/Competitive-Coding/C++/CLionProjects/untitled9/cmake-build-debug

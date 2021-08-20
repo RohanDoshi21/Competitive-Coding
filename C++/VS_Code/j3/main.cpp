@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
+/* this main is a nice thing in all the great things that are present in all the software that are present in all the test cases that are
+useful is an object 
 
+*/
 int main() {
     int t;
     cin >> t;
