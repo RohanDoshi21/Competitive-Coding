@@ -1,12 +1,6 @@
-My good name is Tanish
-
-My good name is Tanish
-
-My name is not Rohan
-
-My good name is Tanish
-
-My name is not Rohan
-
+3 
+3 3 
+7 
+2 2 2 
 
 Time Elapsed: 0 sec

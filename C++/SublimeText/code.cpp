@@ -38,9 +38,5 @@ void Rohan()
 {
 	int x = 12;
 	cin >> x;
-	if (x!=12){
-		cout << "My name is not Rohan\n";
-	}
-	else 
-		cout << "My good name is Tanish\n";
+	cout << x;
 }

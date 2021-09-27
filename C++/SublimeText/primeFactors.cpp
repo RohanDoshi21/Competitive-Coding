@@ -11,6 +11,28 @@ using namespace std;
 #define exp 1e9
 
 void Rohan();
+
+vi PrimeFactors(int number) {
+	vi primeFactors;
+	while (number % 2 == 0) {
+		primeFactors.pb(2);
+		number /= 2;
+	}
+
+	for (int i = 3; i <= sqrt(number); i += 2)
+	{
+		while (number % i == 0) {
+			primeFactors.pb(i);
+			number /= i;
+		}
+	}
+
+	if (number > 2)
+		primeFactors.pb(number);
+
+	return primeFactors;
+}
+
 int main()
 {
 	ios_base::sync_with_stdio(false);
@@ -36,9 +58,11 @@ int main()
 }
 void Rohan()
 {
-	int mid;
-	cin >> mid;
-	while (mid--) {
-		cout << mid << nL;
+	int number;
+	cin >> number;
+	vi primeFactors;
+	primeFactors = PrimeFactors(number);
+	for (auto i : primeFactors) {
+		cout << i << " ";
 	}
 }
