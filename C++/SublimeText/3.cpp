@@ -1,4 +1,4 @@
-#include "bits/stdc++.h"
+#include <bits/stdc++.h>
 using namespace std;
 #define MOD 1000000007
 #define ll long long
@@ -8,7 +8,7 @@ using namespace std;
 #define vi vector<int>
 #define imax INT_MAX
 #define imin INT_MIN
-#define exp 1e9 
+#define exp 1e9
 
 void Rohan();
 int main()
@@ -16,11 +16,11 @@ int main()
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 
-	#ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
-	#endif
-	
+#endif
+
 	int t = 1;
 	cin >> t;
 	while (t--) {
@@ -28,19 +28,17 @@ int main()
 		cout << "\n";
 	}
 
-	#ifndef ONLINE_JUDGE
-    cout<<"\nTime Elapsed: " << 1.0*clock() / CLOCKS_PER_SEC << " sec\n";
-	#endif
+#ifndef ONLINE_JUDGE
+	cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
+#endif
 
 	return 0;
 }
 void Rohan()
 {
-	int x = 12;
-	cin >> x;
-	if (x!=12){
-		cout << "My name is not Rohan\n";
+	int mid;
+	cin >> mid;
+	while (mid--) {
+		cout << mid << nL;
 	}
-	else 
-		cout << "My good name is Tanish\n";
 }

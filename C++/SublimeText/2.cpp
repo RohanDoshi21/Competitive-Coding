@@ -1,4 +1,4 @@
-#include "bits/stdc++.h"
+#include <bits/stdc++.h>
 using namespace std;
 #define MOD 1000000007
 #define ll long long
@@ -16,10 +16,10 @@ int main()
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 
-	#ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
-	#endif
+#endif
 	
 	int t = 1;
 	cin >> t;
@@ -28,19 +28,22 @@ int main()
 		cout << "\n";
 	}
 
-	#ifndef ONLINE_JUDGE
+#ifndef ONLINE_JUDGE
     cout<<"\nTime Elapsed: " << 1.0*clock() / CLOCKS_PER_SEC << " sec\n";
-	#endif
+#endif
 
 	return 0;
 }
 void Rohan()
 {
-	int x = 12;
-	cin >> x;
-	if (x!=12){
-		cout << "My name is not Rohan\n";
+	int arr[5];
+	for (int i = 0; i < 5; ++i)
+	{
+		cin >> arr[i];
 	}
-	else 
-		cout << "My good name is Tanish\n";
+
+	for (int i = 0; i < 5; ++i)
+	{
+		cout << arr[i] << "\n";
+	}
 }
