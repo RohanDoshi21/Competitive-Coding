@@ -25,5 +25,10 @@ int main() {
     ll n;
     cin >> n;
     cout << fibonacci(n) << endl;
+    for (size_t i = 0; i < n+1; i++)
+    {
+        cout << fib[i] << " ";
+    }
+    
     return 0;
 }

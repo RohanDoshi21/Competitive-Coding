@@ -15,5 +15,9 @@ int main() {
     int n;
     cin >> n;
     cout << fibonacci(n);
+    for (int i = 0; i < n; ++i)
+    {
+        cout << result[i] << "\n";
+    }
     return 0;
 }
