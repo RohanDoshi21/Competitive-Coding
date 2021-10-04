@@ -180,3 +180,6 @@ fabric.properties
 .xml
 C++/SublimeText/input.txt
 C++/SublimeText/output.txt
+C++/SublimeText/input.txt
+C++/SublimeText/output.txt
+*.txt

@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 #define MOD 1000000007
 #define ll long long
@@ -9,50 +9,48 @@ using namespace std;
 #define imax INT_MAX
 #define imin INT_MIN
 #define exp 1e9
-
+bool check(int x){
+    return x && (!(x&(x-1)));
+}
 void Rohan();
 int main()
 {
-//    ios_base::sync_with_stdio(false);
-//    cin.tie(NULL);
+//	ios_base::sync_with_stdio(false);
+//	cin.tie(NULL);
 //
 //#ifndef ONLINE_JUDGE
-//    freopen("input.txt", "r", stdin);
-//    freopen("output.txt", "w", stdout);
+//	freopen("input.txt", "r", stdin);
+//	freopen("output.txt", "w", stdout);
 //#endif
 
-    int t = 1;
-    cin >> t;
-    while (t--)
-    {
-        Rohan();
-        cout << "\n";
-    }
-
+	int t = 1;
+	cin >> t;
+	while (t--) {
+		Rohan();
+		cout << "\n";
+	}
+//
 //#ifndef ONLINE_JUDGE
-//    cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
+//	cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
 //#endif
 
-    return 0;
+	return 0;
 }
 void Rohan()
 {
-    int n;
-    cin >> n;
-    int longest = {1};
-
-    for (int i = 0; i < n; ++i)
-    {
-        int temp = {1};
-        for (int j = i; j < n; ++j)
-        {
-            if (((j + 1) & (j + 2)) > 0)
-                temp++;
-            else
-                break;
-        }
-        if (temp > longest)
-            longest = temp;
-    }
-    cout << longest;
+	int n;
+	cin >> n;
+	int count = 1;
+	int longest = 1;
+	for (int i = 0; i < n+1; i++) {
+		if (check(i) || i == n) {
+			if (count > longest ) {
+				longest = count;
+			}
+			count = 1;
+		}
+		else
+			count++;
+	}
+	cout << longest;
 }
