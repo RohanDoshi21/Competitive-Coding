@@ -8,11 +8,8 @@ using namespace std;
 #define vi vector<int>
 #define imax INT_MAX
 #define imin INT_MIN
-#define exp 1e9
-#define rep(i,a,b) for(int i=(a);i<=(b);i++) 
-inline bool check(int x) {
-	return x && (!(x & (x - 1)));
-}
+#define exp 1e9 
+
 void Rohan();
 int main()
 {
@@ -23,16 +20,16 @@ int main()
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
 #endif
-
+	
 	int t = 1;
-	cin >> t;
+	// cin >> t;
 	while (t--) {
 		Rohan();
 		cout << "\n";
 	}
 
 #ifndef ONLINE_JUDGE
-	cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
+    cout<<"\nTime Elapsed: " << 1.0*clock() / CLOCKS_PER_SEC << " sec\n";
 #endif
 
 	return 0;
@@ -40,24 +37,23 @@ int main()
 void Rohan()
 {
 	ll n;
-	cin >> n;
-	ll count = 1;
-	ll longest = 1;
-	for (int i = 1; i < n + 1; i++) {
-		if (check(i)) {
-			if (count > longest ) {
-				longest = count;
-			}
-			count = 1;
-		}
-		else if (i == n) {
-			count++;
-			if (count > longest ) {
-				longest = count;
-			}
+	ll k;
+	cin >> n >> k;
+
+	ll ans = -1;
+
+	ll r = k-1;
+	ll l =0;
+	while(l<=r){
+		ll m = (l+r)/2;
+
+		ll sum = m*(2*k-m-1)/2;
+		if(n-1<=sum){
+			ans = m;
+			r = m - 1;
 		}
 		else
-			count++;
+			l = m + 1;
 	}
-	cout << longest;
+	cout << ans;
 }

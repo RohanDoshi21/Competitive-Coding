@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch helloworld",
+            "request": "launch",
+            "mainClass": "helloworld",
+            "projectName": "Competitive-Coding_5806c527"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "Competitive-Coding_5806c527"
+        },
+        {
             "name": "g++.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",

@@ -9,10 +9,7 @@ using namespace std;
 #define imax INT_MAX
 #define imin INT_MIN
 #define exp 1e9
-#define rep(i,a,b) for(int i=(a);i<=(b);i++) 
-inline bool check(int x) {
-	return x && (!(x & (x - 1)));
-}
+
 void Rohan();
 int main()
 {
@@ -39,25 +36,26 @@ int main()
 }
 void Rohan()
 {
-	ll n;
-	cin >> n;
-	ll count = 1;
-	ll longest = 1;
-	for (int i = 1; i < n + 1; i++) {
-		if (check(i)) {
-			if (count > longest ) {
-				longest = count;
-			}
-			count = 1;
-		}
-		else if (i == n) {
-			count++;
-			if (count > longest ) {
-				longest = count;
-			}
-		}
-		else
-			count++;
+	int arr[5];
+	int indiaWin = 0;
+	int englandWin = 0;
+	for (int i = 0; i < 5; ++i)
+	{
+		cin >> arr[i];
 	}
-	cout << longest;
+	for (int i = 0; i < 5; ++i)
+	{
+		if (arr[i] == 1)
+			indiaWin++;
+		else if (arr[i] == 2)
+			englandWin++;
+
+	}
+	if (indiaWin > englandWin)
+		cout << "INDIA";
+	else if (englandWin > indiaWin)
+		cout << "ENGLAND";
+	else
+		cout << "DRAW";
+
 }

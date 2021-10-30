@@ -8,11 +8,8 @@ using namespace std;
 #define vi vector<int>
 #define imax INT_MAX
 #define imin INT_MIN
-#define exp 1e9
-#define rep(i,a,b) for(int i=(a);i<=(b);i++) 
-inline bool check(int x) {
-	return x && (!(x & (x - 1)));
-}
+#define exp 1e9 
+
 void Rohan();
 int main()
 {
@@ -23,7 +20,7 @@ int main()
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt", "w", stdout);
 #endif
-
+	
 	int t = 1;
 	cin >> t;
 	while (t--) {
@@ -32,32 +29,17 @@ int main()
 	}
 
 #ifndef ONLINE_JUDGE
-	cout << "\nTime Elapsed: " << 1.0 * clock() / CLOCKS_PER_SEC << " sec\n";
+    cout<<"\nTime Elapsed: " << 1.0*clock() / CLOCKS_PER_SEC << " sec\n";
 #endif
 
 	return 0;
 }
 void Rohan()
 {
-	ll n;
-	cin >> n;
-	ll count = 1;
-	ll longest = 1;
-	for (int i = 1; i < n + 1; i++) {
-		if (check(i)) {
-			if (count > longest ) {
-				longest = count;
-			}
-			count = 1;
-		}
-		else if (i == n) {
-			count++;
-			if (count > longest ) {
-				longest = count;
-			}
-		}
-		else
-			count++;
-	}
-	cout << longest;
+	int a, b, c;
+	cin >> a >> b >> c;
+	if (a==7 || b == 7 || c == 7)
+		cout << "YES";
+	else
+		cout << "NO";
 }

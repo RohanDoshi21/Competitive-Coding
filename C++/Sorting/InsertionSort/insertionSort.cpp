@@ -1,6 +1,7 @@
+//! Author: Rohan Doshi
 #include <iostream>
 using namespace std;
-
+// This is a program to demonstrate insertion sort
 int main()
 {
     int n;
