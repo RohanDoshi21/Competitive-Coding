@@ -56,7 +56,7 @@ def ShellSort(list1):
             i = j - gap
             while i >= 0:
                 if list1[i] > list1[i + gap]:
-                    list1[i], list1[i + gap] = list1[i + 1], list1[i]
+                    list1[i], list1[i + gap] = list1[i + gap], list1[i]
                     i = i - gap
                 else:
                     break
