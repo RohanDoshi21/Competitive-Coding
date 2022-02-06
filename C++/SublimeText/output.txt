@@ -1,4 +1,6 @@
-1
-0
+ph
+qg
+hume
+aylnl
 
-Time Elapsed: 0.014 sec
+Time Elapsed: 0.001 sec
